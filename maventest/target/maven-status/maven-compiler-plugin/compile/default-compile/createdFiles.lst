@@ -1,0 +1,11 @@
+com\mas\selenium\util\Misc.class
+com\mas\selenium\services\AppPersist.class
+com\mas\selenium\model\Usuario.class
+com\mas\selenium\services\ControleUsuario.class
+com\mas\selenium\controller\LoginAction.class
+com\mas\selenium\interceptor\ValidaLogin.class
+com\mas\selenium\controller\BaseAction.class
+com\mas\selenium\exceptions\UsuarioNAutorizado.class
+com\mas\selenium\util\SQLAutentica.class
+com\mas\selenium\controller\HelloAction.class
+com\mas\selenium\util\HibernateUtil.class
